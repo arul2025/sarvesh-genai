@@ -4,7 +4,7 @@ import google.generativeai as genai
 # Configure Gemini API Key from Streamlit Secrets
 genai.configure(api_key="AIzaSyDj1wNAWvAB5GcbKa657dUGeXlnIMLGR88")
 
-model = genai.GenerativeModel("gemini-2.5-pro")
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 st.title("🌾 Smart Farming Assistant")
 
