@@ -1,3 +1,4 @@
+https://arul2025.github.io/sarvesh-genai/
 # sarvesh-genai
 gen ai FA 1
 #genai.configure(api_key="AIzaSyB2M5orKk64-U65TmVUn4uD8_PKR03e7Nc")
